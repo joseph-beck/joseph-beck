@@ -6,4 +6,4 @@
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=josephbeck&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
-[![wakatime](https://wakatime.com/badge/user/dec28cc6-f3de-448d-8de6-c4d95a3140ac.svg)](https://wakatime.com/@dec28cc6-f3de-448d-8de6-c4d95a3140ac)
+[![wakatime](https://wakatime.com/badge/user/dec28cc6-f3de-448d-8de6-c4d95a3140ac.svg)](https://wakatime.com/@josephbeck)
